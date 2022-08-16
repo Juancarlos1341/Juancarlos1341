@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Juancarlos1341
 - 👀 I’m interested in  programação e desenvolvimento 
-- 🌱 I’m currently learning  o python 
+- 🌱 I’m currently learning  o python Django e APIS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
